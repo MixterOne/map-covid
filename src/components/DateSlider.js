@@ -1,5 +1,4 @@
 import React from "react";
-import { withStyles } from '@mui/material/styles';
 
 import Slider from '@mui/material/Slider';
 

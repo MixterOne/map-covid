@@ -1,3 +1,45 @@
+# Covid Daily Cases
+Teste técnico para vaga de Frontend Javascript Developer na BeTruck, onde o objetivo é mostrar atráves de um mapa, os casos de covid pelo mundo!
+
+
+# Como executar:
+<h4>Para rodar o projeto primeiro é necessário clonar o repositório para a sua máquina local. 
+      Digite os comandos abaixo no seu terminal:</h4>
+<ul>
+  <li>git clone 'https://urtldoprojeto'</li>
+  <li>cd 'seu projeto'</li>
+</ul>
+  <h4>Agora você precisará rodar o seguinte comando para instalar as depedências:</h4>
+<ul>
+  <li>npm install</li>
+</ul>  
+  <h4>Agora com as depedências instaladas, rode o seguinte comando para inicializar o servidor:</h4>
+<ul>
+  <li>npm start</li>
+</ul>  
+
+# Sobre o projeto
+<a href='https://map-covid-six.vercel.app/'>Ver o projeto.</a>
+<h3>O que foi utilizado para a contrução desse site:</h3>
+ <ul>
+  <li>HTML</li>
+  <li>CSS
+    <ul><li>DESIGN RESPONSIVO</li></ul>
+   </li>
+   <li>JAVASCRIPT</li>
+   <li>BIBLIOTECAS/DEPENDENCIES
+    <ul>
+        <li>LEAFTLET</li>
+        <li>AXIOS</li>
+        <li>MATERIAL UI</li>
+        <li>PAPAPERSE</li>
+    </ul>
+   </li>
+    
+</ul>
+
+This is a challenge by <a href='https://coodesh.com/'>Coodesh</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

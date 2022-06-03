@@ -1,5 +1,4 @@
 import React from "react";
-import { withStyles } from '@mui/material/styles';
 
 import { MapContainer, Circle, TileLayer } from 'react-leaflet';
 
@@ -20,12 +19,6 @@ export default class Leaflet extends React.Component {
         />
         {this.props.infectedOn &&
           <MyCircles data={this.props.infectedData} date={this.props.date} color="red"/>
-        }
-        {this.props.recoveredOn &&
-          <MyCircles data={this.props.recoveredData} date={this.props.date} color="green"/>
-        }
-        {this.props.deathOn &&
-          <MyCircles data={this.props.deathData} date={this.props.date} color="black"/>
         }
       </MapContainer>
       </div>)
