@@ -59,8 +59,6 @@ export default class DateSlider extends React.Component {
     ];
     return (
       <>
-        <br />
-        <br />
         <Slider
           defaultValue={0}
           onChange={this.handleChange}
